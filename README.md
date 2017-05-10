@@ -5,7 +5,7 @@
 flushy
 =
 
-Flushy is an advanced man in the middle framework for macOS for penetration testing. It includes multiple tools such as MITM, sniffing passwords, phishing, HTML,JS,CSS inejector ... 
+Flushy is an advanced man in the middle framework for macOS for penetration testing. It includes multiple tools such as MITM, sniffing passwords, phishing, (HTML,JS,CSS) injector ... 
 
 Credits and dependencies
 =
