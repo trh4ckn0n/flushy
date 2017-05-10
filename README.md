@@ -12,6 +12,7 @@ Credits and dependencies
 
 - nmap : https://nmap.org/
 - bettercap : https://www.bettercap.org/
+- bettercap proxy-modules : https://github.com/evilsocket/bettercap-proxy-modules
 - dsniff : https://www.monkey.org/~dugsong/dsniff/ https://github.com/chrismcmorran/dSniff-Pre-Compiled-MacOS 
 
 
