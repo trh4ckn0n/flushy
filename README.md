@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/pDbzG3g.png" width="80">
+<img src="http://i.imgur.com/pDbzG3g.png" width="200">
 
 [![Version](https://img.shields.io/badge/FLUSHY-1.0-brightgreen.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/Supported_OS-macOS/Linux-orange.svg)]()
