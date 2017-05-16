@@ -24,8 +24,8 @@ Instalation
 Dependencies will be automatically installed running the install script on macOS. On Kali Linux they're all preinstalled 
 
     git clone https://github.com/ShellBear/flushy/
-    cd flushy && sudo sh install.sh
-    sudo flushy.sh
+    cd flushy && sudo bash install.sh
+    sudo bash flushy.sh
 
 Known Issues
 =
