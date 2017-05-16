@@ -13,7 +13,7 @@ Flushy is an advanced man in the middle framework for macOS and Linux for penetr
 Legal Disclamer
 =
     I don't hold any responsibility for the bad use of this tool,
-    remember that attacking targets without prior consent it's illegal and punished by law.
+    remember that attacking targets without prior consent is illegal and punished by law.
 
 Credits and dependencies
 =
