@@ -24,7 +24,7 @@ Credits and dependencies
 - bettercap : https://www.bettercap.org/
 - bettercap proxy-modules : https://github.com/evilsocket/bettercap-proxy-modules
 - dsniff : https://www.monkey.org/~dugsong/dsniff/ 
-
+- wifiphisher (phishing page: oauth-login) : https://github.com/wifiphisher/wifiphisher
 
 Instalation
 =
