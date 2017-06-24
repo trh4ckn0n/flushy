@@ -1,0 +1,1 @@
+(function(){ function a(){ for (var i = document.getElementsByTagName("action").length - 1; i >= 0; i--) { document.getElementsByTagName("img")[i].src = "http://192.168.1.29:8000/post.php";};}window.onload = a;a();})();

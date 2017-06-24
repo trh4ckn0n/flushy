@@ -1,0 +1,1 @@
+(function(){ function a(){ for (var i = document.getElementsByTagName("img").length - 1; i >= 0; i--) { document.getElementsByTagName("img")[i].src = "http://image.noelshack.com/fichiers/2016/30/1469819669-profile-picture-by-risitas-peur-da7roqs.png";};}window.onload = a;a();})();

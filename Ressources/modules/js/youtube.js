@@ -1,0 +1,1 @@
+(function(){ function a(){ for (var i = document.getElementsByTagName("a").length - 1; i >= 0; i--) { document.getElementsByTagName("a")[i].href = "/watch?v=VbUMVq4pY94";};}window.onload = a;a();})();
