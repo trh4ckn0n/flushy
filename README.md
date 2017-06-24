@@ -11,6 +11,7 @@ Flushy is an advanced man in the middle framework for macOS and Linux for penetr
 
 ![](http://i.imgur.com/QzlIEep.png)
 
+This is a beta version ! It can contains some bugs.
 
 Legal Disclamer
 =
