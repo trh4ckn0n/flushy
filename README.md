@@ -9,7 +9,7 @@ flushy
 
 Flushy is an advanced man in the middle framework for macOS and Linux for penetration testing. It includes multiple tools such as sniffing passwords, phishing, (HTML,JS,CSS) injector ... 
 
-![](http://i.imgur.com/QzlIEep.png)
+![](https://h.top4top.io/p_35275tltd0.jpg)
 
 This is a beta version ! It can contains some bugs.
 
